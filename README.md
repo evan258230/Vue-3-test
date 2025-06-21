@@ -1,14 +1,17 @@
-###Getting Started
+**Getting Started**
 You need to install node.js and run some lines of code to use this
 
-###1. Install Node.js
+**1. Install Node.js**
 Download from [https://nodejs.org/](https://nodejs.org/)
 
-###2. Install dependencies
+**2. Install dependencies**
 npm install
 
-###3. Run the app
+**3. Run the app**
 npm run dev
+
+
+**Bonus Notes**
 
 index.html is needed to create an actual page to show the user
 
